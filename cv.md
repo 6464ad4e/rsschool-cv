@@ -84,7 +84,4 @@ function plant(seed, water, fert, temp){
 * Russian - Native
 * Uzbek - Pre-intermediate
 * German - Pre-intermediate
-* English - Advanced
-
-
-![myScores](//Scores.jpg)
+* English - Upper-intermediate/Advance (B2-C1 bridge)
