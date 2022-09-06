@@ -85,4 +85,4 @@ function plant(seed, water, fert, temp){
 * Uzbek - Pre-intermediate
 * German - Pre-intermediate
 * English - Advanced
-![myScores](D:\Studying\Scores.jpg)
+![myScores](//Scores.jpg)
