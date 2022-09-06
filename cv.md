@@ -1,22 +1,27 @@
 # Rustamzhon Yunusov
 
 ### Junior Frontend Developer
-
-
+---
 ### Contact me:
 
 
-Address: 19, 4th Kara-Kamish street, Tashkent, Uzbekistan
-Phone: +998 94 610 64 80
-E-mail: rustamzhon.yunusov@gmail.com
-Telegram: @Bohringenieur
+**Address:** 19, 4th Kara-Kamish street, Tashkent, Uzbekistan
+
+
+**Phone:** +998 94 610 64 80
+
+
+**E-mail:** rustamzhon.yunusov@gmail.com
+
+
+**Telegram:** @Bohringenieur
 
 
 ### About me:
 
 
 I am 27 years old as of 2022. I studied at the Russian State University of Oil&Gas named after I.M. Gubkin, and after my graduation I entered the Eriell Group as a drilling engineer. I have worked for 5 years on my position, but the work brought me no pleasure and joy. Having seen that no changes were expected, I decided to find another path in my life. And so I found the RS School.
-My goal is to become a frontend developer and enhance the life of my family.
+My goal is to become a frontend developer and enhance the life conditions of my family.
 
 
 ### Skills:
@@ -62,7 +67,7 @@ function plant(seed, water, fert, temp){
 ### Work experience:
 
 
-*Eriell Group, Oil&Gas Services Company 2017-2022. I had business trips to: Russia, Uzbekistan, UAE.
+* Eriell Group, Oil&Gas Services Company 2017-2022. I had business trips to: Russia, Uzbekistan, UAE.
 
 
 ### Courses:
@@ -80,4 +85,4 @@ function plant(seed, water, fert, temp){
 * Uzbek - Pre-intermediate
 * German - Pre-intermediate
 * English - Advanced
-! [myScores] (D:\Studying\Scores.jpeg)
+! [myScores](D:\Studying\Scores.jpeg)
