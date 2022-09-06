@@ -1,6 +1,6 @@
 # Rustamzhon Yunusov
 
-### Junior Frontend Developer
+## Junior Frontend Developer
 ---
 ### Contact me:
 
@@ -20,7 +20,7 @@
 ### About me:
 
 
-I am 27 years old as of 2022. I studied at the Russian State University of Oil&Gas named after I.M. Gubkin, and after my graduation I entered the Eriell Group as a drilling engineer. I have worked for 5 years on my position, but the work brought me no pleasure and joy. Having seen that no changes were expected, I decided to find another path in my life. And so I found the RS School.
+I am 27 years old as of 2022. I studied at the Russian State University of Oil&Gas named after I.M. Gubkin, and after my graduation I was hired by Eriell Group as a drilling engineer. I have worked for 5 years on my position, but the work brought me no pleasure and joy. Having seen that no changes were expected, I decided to find another path in my life. And so I found the RS School.
 My goal is to become a frontend developer and enhance the life conditions of my family.
 
 
@@ -85,4 +85,6 @@ function plant(seed, water, fert, temp){
 * Uzbek - Pre-intermediate
 * German - Pre-intermediate
 * English - Advanced
+
+
 ![myScores](//Scores.jpg)
