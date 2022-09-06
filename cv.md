@@ -34,3 +34,54 @@ My goal is to become a frontend developer and enhance the life conditions of my 
 * Lightroom
 * Visual Studio Code
 * Chrome Dev Tools
+
+
+### Code example:
+
+
+> You have cultivated a plant, and after months of hard work, the time has come to reap the flowers of your hard work. When it was growing, you added water and fertilizer, and kept a constant temperature. It's time check how much your plant has grown.
+> Your task is to return a string representing the plant.
+
+
+```
+function plant(seed, water, fert, temp){
+
+  let plants = '';
+  
+  if (temp < 20 || temp > 30) {
+    for (let j = 0; j < water; j++) {
+    plants += '-'.repeat(water);
+    }
+  return plants + seed;
+  }
+  
+  if (temp => 20 && temp <= 30) {
+    for (let i = 0; i < water; i++) {
+    plants += '-'.repeat(water) + seed.repeat(fert);
+    }
+  return plants;
+  }
+}
+```
+
+### Work experience:
+
+
+* Eriell Group, Oil&Gas Services Company 2017-2022. I had business trips to: Russia, Uzbekistan, UAE.
+
+
+### Courses:
+
+
+* JavaScript Manual on learnjavascript.ru (in progress as of 2022) and JavaScript course on ru.code-basics.com (full)
+* HTML and CSS courses on ru.code-basics.com (full)
+* Learn JavaScript and JSDev apps on Android OS (in progress as of 2022)
+
+
+### Languages:
+
+
+* Russian - Native
+* Uzbek - Pre-intermediate
+* German - Pre-intermediate
+* English - Upper-intermediate/Advance (B2-C1 bridge)
